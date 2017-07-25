@@ -1,0 +1,971 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"row",
+				"rows"
+			],
+			[
+				"cs",
+				"csv_header"
+			],
+			[
+				"lo",
+				"logger"
+			],
+			[
+				"ret",
+				"ret_features"
+			],
+			[
+				"cu",
+				"cur_hospital"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"feat",
+				"featureList"
+			],
+			[
+				"path",
+				"pathname"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"sh",
+				"showNormal"
+			],
+			[
+				"data",
+				"pub_data"
+			],
+			[
+				"reco",
+				"record_list"
+			],
+			[
+				"sho",
+				"showRepair"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"ul",
+				"urlopen"
+			],
+			[
+				"url",
+				"url_clear"
+			],
+			[
+				"recl",
+				"record_low"
+			],
+			[
+				"reo",
+				"Record"
+			],
+			[
+				"r",
+				"record"
+			],
+			[
+				"n",
+				"n_hidden"
+			],
+			[
+				"op",
+				"optimizer"
+			],
+			[
+				"bat",
+				"batch_y"
+			],
+			[
+				"to",
+				"total_batch"
+			],
+			[
+				"train",
+				"trainData"
+			],
+			[
+				"loa",
+				"loadData"
+			],
+			[
+				"pa",
+				"pathName"
+			],
+			[
+				"np",
+				"n_input"
+			],
+			[
+				"seg",
+				"segment"
+			],
+			[
+				"def",
+				"default_fpath"
+			],
+			[
+				"nod",
+				"node_num"
+			],
+			[
+				"voc",
+				"vocabulary_path"
+			],
+			[
+				"nlg",
+				"nlg_nn"
+			],
+			[
+				"enco",
+				"encodeSF"
+			],
+			[
+				"en",
+				"encode_action"
+			],
+			[
+				"slot",
+				"slots_list"
+			],
+			[
+				"sl",
+				"slots_list"
+			],
+			[
+				"req",
+				"request_actions"
+			],
+			[
+				"infl",
+				"inform_slots"
+			],
+			[
+				"slo",
+				"slot_actions"
+			],
+			[
+				"a",
+				"action"
+			],
+			[
+				"inou",
+				"inOutFile"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"spl",
+				"splitSymbol"
+			],
+			[
+				"de",
+				"decode_sf"
+			],
+			[
+				"con",
+				"convertTrainingDataFormat"
+			],
+			[
+				"out",
+				"outFile"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"fin",
+				"filename"
+			],
+			[
+				"fi",
+				"fileName"
+			],
+			[
+				"go",
+				"goal_generate_getfeature"
+			],
+			[
+				"dat",
+				"data_slot"
+			],
+			[
+				"inte",
+				"intent_list"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"us",
+				"user_action"
+			],
+			[
+				"name",
+				"name_list"
+			],
+			[
+				"nam",
+				"name_list"
+			],
+			[
+				"nl",
+				"nl_output"
+			],
+			[
+				"sys",
+				"sys_r"
+			],
+			[
+				"sef",
+				"self"
+			],
+			[
+				"se",
+				"seqtoseq"
+			],
+			[
+				"sts",
+				"seqtoseq"
+			],
+			[
+				"set",
+				"sentence"
+			],
+			[
+				"di",
+				"dialog_status"
+			],
+			[
+				"json",
+				"json"
+			],
+			[
+				"jos",
+				"jsonText"
+			],
+			[
+				"jso",
+				"jsonText"
+			],
+			[
+				"remov",
+				"removeRedundant"
+			],
+			[
+				"inof",
+				"inOutFileName"
+			],
+			[
+				"ifn",
+				"inputFileName"
+			],
+			[
+				"add",
+				"add_argument"
+			],
+			[
+				"epo",
+				"epoch_x"
+			],
+			[
+				"rnn",
+				"recurrent_neural_network"
+			],
+			[
+				"lstmcel",
+				"lestm_cell"
+			],
+			[
+				"test",
+				"test_y"
+			],
+			[
+				"trian",
+				"train_x"
+			],
+			[
+				"te",
+				"testing_size"
+			],
+			[
+				"featu",
+				"features"
+			],
+			[
+				"sam",
+				"sample_handling"
+			],
+			[
+				"class",
+				"classification"
+			],
+			[
+				"lem",
+				"lemmatize"
+			],
+			[
+				"q",
+				"que"
+			],
+			[
+				"my",
+				"my_args"
+			],
+			[
+				"me",
+				"meta_epsilon"
+			],
+			[
+				"sele",
+				"select_goal"
+			],
+			[
+				"news",
+				"news_image"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ipy",
+				"Shutdown IPython Notebook Kernel"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ipyhon",
+				"Open IPython Notebook"
+			],
+			[
+				"ipython",
+				"Open IPython Notebook"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"htm",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"mak",
+				"Set Syntax: Markdown"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"josn",
+				"Pretty JSON: Validate"
+			],
+			[
+				"py",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"packagre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packcon",
+				"Package Control: Install Package"
+			],
+			[
+				"syta",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"codeformatter ",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"com",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 405.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Bigyo/Downloads/your-first-pwapp-master"
+	],
+	"file_history":
+	[
+		"/Users/Bigyo/Documents/dqn_mahjong/Untitled1.ipynb",
+		"/Users/Bigyo/Documents/dqn_mahjong/util.py",
+		"/Users/Bigyo/Documents/dqn_mahjong/cardset.py",
+		"/Users/Bigyo/Documents/dqn_mahjong/environment.py",
+		"/Users/Bigyo/Documents/dqn_mahjong/run.py",
+		"/Users/Bigyo/Downloads/YouBikeTP-5",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/card_demo/app.js",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/card_demo/views/index.jade",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/card_demo/public/javascripts/main.js",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/card_demo/routes/index.js",
+		"/Users/Bigyo/Downloads/YouBikeTP-8",
+		"/Users/Bigyo/Downloads/YouBikeTP-7",
+		"/Users/Bigyo/Downloads/YouBikeTP-4",
+		"/Users/Bigyo/Documents/hackNTU/process2.py",
+		"/Users/Bigyo/Documents/hackNTU/process_lesser.py",
+		"/Users/Bigyo/Documents/hackNTU/10512_head.csv",
+		"/Users/Bigyo/Downloads/YouBikeTP",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/ntu_hacker/routes/index.js",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/card_demo/routes/api.js",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/hackntu/routes/api.php",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/hackntu/config/view.php",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/hackntu/app/Carddata.php",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/hackntu/app/Task.php",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/hackntu/composer.json",
+		"/Users/Bigyo/Documents/hackNTU/ubikego/hackntu/public/index.php",
+		"/Users/Bigyo/Documents/hackNTU/10512_100sno.csv",
+		"/Users/Bigyo/Documents/hackNTU/preprocess.py",
+		"/Users/Bigyo/Documents/hackNTU/10512.csv",
+		"/Users/Bigyo/Documents/hackNTU/temp.csv",
+		"/Users/Bigyo/iOSapp/CareDesignCase/src/hospitalManager.py",
+		"/Users/Bigyo/iOSapp/CareDesignCase/src/rfModel.py",
+		"/Users/Bigyo/iOSapp/CareDesignCase/src/trainingManager.py",
+		"/Users/Bigyo/iOSapp/CareDesignCase/data/hospitalList.json",
+		"/Users/Bigyo/iOSapp/CareDesignCase/data/example_14_6.csv",
+		"/Users/Bigyo/iOSapp/CareDesignCase/data/example_37_14.csv",
+		"/Users/Bigyo/iOSapp/CareDesignCase/data/example_37_14_bool.csv",
+		"/Users/Bigyo/iOSapp/CareDesignCase/src/server.py",
+		"/Users/Bigyo/iOSapp/CareDesignCase/src/utils.py",
+		"/Users/Bigyo/iOSapp/CareDesignCase/README.md",
+		"/Users/Bigyo/iOSapp/CareDesignCase/src/casemodel.py",
+		"/Users/Bigyo/iOSapp/CareDesignCase/data/example_31_14.csv",
+		"/Users/Bigyo/Documents/server_practice/Laravel_practice/config/app.php",
+		"/Users/Bigyo/Documents/server_practice/Laravel_practice/.env",
+		"/Users/Bigyo/Documents/server_practice/Laravel_practice/public/index.php",
+		"/Users/Bigyo/iOSapp/CareDesignCase/src/logManager.py",
+		"/Users/Bigyo/Documents/server_practice/nodejstutorial/trylogin/demo-express2/app.js",
+		"/Users/Bigyo/iOSapp/CareDesignCase/setup.sh",
+		"/Users/Bigyo/iOSapp/CareDesignCase/src/array2url.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/program/mlp.py",
+		"/Users/Bigyo/iOSapp/CareDesignCase/run_server.sh",
+		"/Users/Bigyo/iOSapp/CareDesignCase/src/server_bigyo.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/program/data/oracle.head.new.jsonl",
+		"/Users/Bigyo/iOSapp/CareDesignCase/server_bigyo.py",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/showrecord/views.py",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/showrecord/urls.py",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/showrecord/apps.py",
+		"/Users/Bigyo/Documents/server_practice/nodejstutorial/trylogin/package.json",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/program/data/guesswhat.head.new.jsonl",
+		"/Users/Bigyo/Documents/server_practice/nodejstutorial/myfirstmodule.js",
+		"/Users/Bigyo/Documents/server_practice/nodejstutorial/demofile1.html",
+		"/Users/Bigyo/Downloads/report.md",
+		"/Users/Bigyo/Documents/server_practice/nodejstutorial/demo_uploadfile.js",
+		"/Users/Bigyo/Documents/server_practice/nodejstutorial/chatwidget/style.css",
+		"/Users/Bigyo/Documents/server_practice/nodejstutorial/chatwidget/chat.html",
+		"/Users/Bigyo/Library/Application Support/Sublime Text 3/Packages/Sublime-HTMLPrettify/.jsbeautifyrc",
+		"/Users/Bigyo/Documents/server_practice/nodejstutorial/demo_openfile.js",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/templates/index.html",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/templates/repair.html",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/boomerang/scoreBackup",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/boomerang/settings.py",
+		"/Users/Bigyo/Documents/server_practice/nodejstutorial/myfirst.js",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/showrecord/models.py",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/game/views.py",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/game/urls.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/usersim/usersim_demo.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/usersim/usersim.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/Rule_Base_respond/responder.py",
+		"/Users/Bigyo/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/showrecord/admin.py",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/showrecord/tests.py",
+		"/Users/Bigyo/Documents/NTU/105-2/遊戲設計/program/recordSaver.py",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/Procfile",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/boomerang/wsgi.py",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/boomerang/urls.py",
+		"/Users/Bigyo/Documents/server_practice/heroku_practice/python-getting-started/gettingstarted/settings.py",
+		"/Users/Bigyo/Documents/server_practice/boomerang_server/boomerang/manage.py",
+		"/Users/Bigyo/Documents/server_practice/python_django_practice/mysite/polls/views.py",
+		"/Users/Bigyo/Documents/server_practice/python_django_practice/mysite/polls/urls.py",
+		"/Users/Bigyo/Documents/server_practice/python_django_practice/mysite/mysite/urls.py",
+		"/Users/Bigyo/Documents/server_practice/heroku_practice/java-getting-started/Procfile",
+		"/Users/Bigyo/Documents/server_practice/python_django_practice/mysite/polls/models.py",
+		"/Users/Bigyo/Documents/server_practice/heroku_practice/python-getting-started/hello/views.py",
+		"/Users/Bigyo/Documents/server_practice/heroku_practice/python-getting-started/manage.py",
+		"/Users/Bigyo/Documents/server_practice/python_django_practice/mysite/mysite/settings.py",
+		"/Users/Bigyo/Documents/server_practice/python_django_practice/mysite/polls/admin.py",
+		"/Users/Bigyo/Documents/server_practice/heroku_practice/python-getting-started/hello/models.py",
+		"/Users/Bigyo/Documents/nodejs_practice/requestHandlers.js",
+		"/Users/Bigyo/Documents/nodejs_practice/index.js",
+		"/Users/Bigyo/Documents/nodejs_practice/router.js",
+		"/Users/Bigyo/Documents/nodejs_practice/server.js",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/usersim/sf2nl_input.txt",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/usersim/printNLtrainingData.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/nlg/translate.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/nlg/seq2seq_model.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/program/data/oracle.test.new.jsonl",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/program/data/guesswhat.head",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/program/parseData.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/sentdex/create_sentiment_features.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/github_reference/TensorFlow-Examples/examples/3_NeuralNetworks/multilayer_perceptron.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/sentdex/deep_net2.py",
+		"/Users/Bigyo/Documents/NTU/105-2/遊戲設計/Unity/Boomerang/Boomerang_v1/index.html",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/usersim/sf2nl_handicraft_v2.txt",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/program/data/oracle.train.new.jsonl",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/sentdex/deep_net.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/program/data/oracle_train.new.jsonl",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/MiuLab/畢業專題/HDQN/github_reference/TensorFlow-Examples/examples/3_NeuralNetworks/recurrent_network.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/nlg/data_utils.py",
+		"/Users/Bigyo/Desktop/b.cpp",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/foodbot.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/fb_msg_server.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/dm_component/dp.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/dm_component/dqn.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/dm_component/dp_dqn.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/usersim/train_dqn.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/usersim/usersim_nlg.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/nlg/nlg.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/dm_component/dst.py",
+		"/Users/Bigyo/Documents/NTU/105-2/智慧對話機器人/program/FootBot2/usersim/act_nl_pairs.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<current file>,",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"1070",
+			"IN",
+			"csv_header",
+			"inputFeature",
+			"trainingQueue",
+			"tIn",
+			"lIn",
+			",BoolIn",
+			",IN",
+			"inputFeature",
+			"curTask",
+			"train(",
+			"train",
+			"re",
+			"getOutputFeature",
+			"savepath",
+			"rfm",
+			"features",
+			"hm",
+			"HospitalManager",
+			"km",
+			"rfm",
+			"cur_hospital",
+			"run",
+			"debug",
+			"loadData",
+			".con",
+			"default_inputJson",
+			"getTopNstore",
+			"foodData",
+			"filterFood",
+			"getQuery",
+			"setPathForDB",
+			"URL",
+			"db_from_env",
+			"heroku",
+			"b0290",
+			"build",
+			"static",
+			"templ",
+			"init",
+			"batch",
+			"input_dim",
+			"output_dim",
+			"batch_size",
+			"learning_rate",
+			"\"category_id\": 51,",
+			"1044105",
+			"id",
+			"2159052",
+			"]",
+			"category_id",
+			"2159052",
+			"mallo",
+			"seq2seq_f",
+			"single_cell",
+			"use_lstm",
+			"basic_tokenizer",
+			"nlg",
+			"./",
+			"initialize_vocabulary",
+			"data_dir",
+			"data_to_token_ids",
+			"initialize_vocabulary",
+			"vocabulary_path",
+			"session",
+			"config",
+			"encode_action",
+			"stackList",
+			"金",
+			"inFile",
+			"請問您要找哪種類型的餐廳？",
+			"inform_slots",
+			"not",
+			"request type ## 請問想找哪種餐廳？",
+			"找餐廳嗎？儘管問我吧！",
+			"printTrainData",
+			"dump",
+			"Dump",
+			"inOutFile",
+			"inOutFileName",
+			"##",
+			"printTrainData",
+			"##",
+			"' ##",
+			"' ## '",
+			"rating",
+			"clone_target",
+			"simulateEpisode",
+			"warm_start",
+			"/",
+			"sample",
+			"dump",
+			"filename",
+			"adapt",
+			"user_intent",
+			"decode",
+			"reward_function",
+			"reward",
+			"(time",
+			"營業時間",
+			"compar",
+			"get_dst",
+			"compareDSTandGoal",
+			"dst_correct_sum_by_turn",
+			"print",
+			"type",
+			"有其他條件嗎？",
+			"action['inform_slots'] = ",
+			"self.goal['inform_slots']",
+			"self.goat['inform_slots']",
+			"slot,",
+			"slot ",
+			"slot",
+			"state",
+			"dump",
+			"machine",
+			"onlyDialog",
+			"onlyDial",
+			"nlg",
+			"lu",
+			"saver",
+			"pickle",
+			"lu",
+			"您的預算大概多少呢？",
+			"logging",
+			"normalized_embeddings"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"BoolIN",
+			"tIN",
+			"lIN",
+			",BoolIn",
+			".."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1046,
+								1046
+							]
+						],
+						"settings":
+						{
+							"parser": "github",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
